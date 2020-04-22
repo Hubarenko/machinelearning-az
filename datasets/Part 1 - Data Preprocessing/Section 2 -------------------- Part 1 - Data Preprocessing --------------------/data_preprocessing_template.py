@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+
 """
 Created on Wed Feb 27 19:43:11 2019
 
@@ -9,6 +8,7 @@ Created on Wed Feb 27 19:43:11 2019
 # Plantilla de Pre Procesado
 
 # Cómo importar las librerías
+# A continuación, las 3 librerías básicas
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
